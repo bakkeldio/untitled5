@@ -1,0 +1,30 @@
+.font{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+
+.container1{
+    float: left;
+}
+.container2{
+    float: right;
+}
+.card-body{
+    margin-top: 45px;
+    float:right;
+}
+.alignment{
+    margin-top: 50px
+;
+}
+.container4{
+    background-color: blue;
+}
+.page-footer.page-custom{
+    background-color: #0f6674;
+}
+.panel-footer {
+
+}
